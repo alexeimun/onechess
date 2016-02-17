@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Back.png</Source>
+      <Name>Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Back.xnb</Output>
+      <Time>2014-09-21T11:20:35.9347257-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Frame.png</Source>
+      <Name>Frame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Frame.xnb</Output>
+      <Time>2014-09-21T11:20:35.9503258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>porcent.png</Source>
+      <Name>porcent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\porcent.xnb</Output>
+      <Time>2014-09-21T11:20:35.9503258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shelf_0.png</Source>
+      <Name>Shelf_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Shelf_0.xnb</Output>
+      <Time>2014-09-21T11:20:35.9659258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shelf_1.png</Source>
+      <Name>Shelf_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Shelf_1.xnb</Output>
+      <Time>2014-09-21T11:20:35.9659258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Turco.png</Source>
+      <Name>Turco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Turco.xnb</Output>
+      <Time>2014-09-21T11:20:35.9659258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse\pick0.png</Source>
+      <Name>Mouse\pick0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Mouse\pick0.xnb</Output>
+      <Time>2014-09-21T11:22:46.6671729-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Mouse\pick1.png</Source>
+      <Name>Mouse\pick1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Mouse\pick1.xnb</Output>
+      <Time>2014-09-21T11:22:46.713973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tokens\Bishop.png</Source>
+      <Name>Tokens\Bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Tokens\Bishop.xnb</Output>
+      <Time>2014-09-21T11:23:06.3388075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tokens\Horse.png</Source>
+      <Name>Tokens\Horse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Tokens\Horse.xnb</Output>
+      <Time>2014-09-21T11:23:06.3388075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tokens\King.png</Source>
+      <Name>Tokens\King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Tokens\King.xnb</Output>
+      <Time>2014-09-21T11:23:06.3388075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tokens\Pawn.png</Source>
+      <Name>Tokens\Pawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Tokens\Pawn.xnb</Output>
+      <Time>2014-09-21T11:23:06.3388075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tokens\Queen.png</Source>
+      <Name>Tokens\Queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Tokens\Queen.xnb</Output>
+      <Time>2014-09-21T11:23:06.3544075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tokens\Tower.png</Source>
+      <Name>Tokens\Tower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Tokens\Tower.xnb</Output>
+      <Time>2014-09-21T11:23:06.3544075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-09-21T11:20:35.9347257-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fporcent.spritefont</Source>
+      <Name>Fporcent</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\Fporcent.xnb</Output>
+      <Time>2014-09-21T11:20:35.9503258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>val.spritefont</Source>
+      <Name>val</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\val.xnb</Output>
+      <Time>2014-09-21T11:20:35.9971258-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2C014D27-DC56-40BC-B701-A239FDCF385A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChessContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\schleirmacher\documents\visual studio 2013\Projects\OneChess\OneChess\OneChess\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-20T11:10:42.3447272-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
